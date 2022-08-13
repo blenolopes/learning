@@ -1,0 +1,10 @@
+.links
+https://app.vagrantup.com/boxes/search
+https://www.vagrantup.com/docs/providers/virtualbox/configuration
+
+
+.cmd
+vagrant init
+vagrant box list
+vagrant box add
+vagrant init ubuntu/focal64
