@@ -5,7 +5,6 @@ Learning Vagrant with VirtualBox.
 .
 ├── doc
 │   └── doc.txt
-├── LICENSE
 ├── README.md
 ├── topology
 └── vagrant
