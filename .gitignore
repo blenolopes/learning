@@ -8,8 +8,10 @@
 ### terraform rules for .gitignore
 ###
 
-# Local .terraform directories
+# Local .terraform directories and files
 **/.terraform/*
+*.terraform
+*.terraform.*
 
 # .tfstate files
 *.tfstate
