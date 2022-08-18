@@ -1,0 +1,33 @@
+/home/blenolopes/Git/learning/terraform/
+└── udemy
+    └── terraformazure
+        ├── 024.create_resource_group
+        │   ├── main.tf
+        │   ├── outputs.tf
+        │   └── variables.tf
+        ├── 026.providers_random
+        │   ├── main.tf
+        │   ├── outputs.tf
+        │   ├── terraform.tfstate
+        │   ├── terraform.tfstate.backup
+        │   └── variables.tf
+        ├── 029.providers_archive_file
+        │   ├── data
+        │   │   ├── allDirectory-qUwccN.zip
+        │   │   ├── sample1.txt
+        │   │   ├── sample1.zip
+        │   │   ├── sample2.txt
+        │   │   └── sample3.txt
+        │   ├── main.tf
+        │   ├── outputs.tf
+        │   ├── terraform.tfstate
+        │   ├── terraform.tfstate.backup
+        │   └── variables.tf
+        ├── 030.exec_local_command
+        │   ├── main.tf
+        │   ├── output.txt
+        │   ├── terraform.tfstate
+        │   └── terraform.tfstate.backup
+        └── README.MD
+
+7 directories, 23 files
